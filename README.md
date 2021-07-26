@@ -11,7 +11,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Raşit KAHRAMAN, Electrical electronics Engineer from Turkey
+  Hi, I'm Raşit KAHRAMAN, Electrical Electronics Engineer from Turkey
   <br>
   🎓 I graduated from Sakarya University
   <br>
