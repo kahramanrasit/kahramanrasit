@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sadikortaoglan">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kahramanrasit">
 <br>
 <h3 align="center">
   Hello there, I'm Raşit 👋
@@ -27,6 +27,28 @@
 
 <hr>
 
+<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
+
+<p align="center">
+  <code><img title="C" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/c.svg"></code>
+  <code><img title="Python" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/python-original.svg"></code>
+  
+  <code><img title="Problem Solving" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/css.svg"></code>
+  <code><img title="AngularJS" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/angularjs.png"></code>
+  <code><img title="Git" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/git-original.svg"></code>
+  <code><img title=".NetCore" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/dotnetcore.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/postgresql.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/visualstudio.png"></code>
+  <code><img title="JQuery" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/jquery-original.svg"></code>
+  <code><img title="JSON" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/json.svg"></code>
+  <code><img title="GitHub" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/mysql.svg"></code>
+  <code><img title="npm" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/npm.svg"></code>
+  <code><img title="Flask" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/flask.png"></code>
+</p>
 
 
 
