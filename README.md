@@ -17,7 +17,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I'm currently learning to Python and C
+  📚 I'm currently learning to Linux and C
   <br>
   💬 Ask me anything about from <a href="https://github.com/kahramanrasit" title="Issues">Here</a>
   <br>
